@@ -1,2 +1,2 @@
 # spiderbull
-Primitive Spider Experiment
+This is an primitive web crawler experiment  
